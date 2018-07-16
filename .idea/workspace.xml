@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ad98bef-3c84-4807-98ec-ef0ed193d962" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+              <folding>
+                <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="2606" column="1" lean-forward="true" selection-start-line="2606" selection-start-column="1" selection-end-line="2606" selection-end-column="1" />
+              <folding>
+                <element signature="e#2228#2800#0" expanded="false" />
+                <element signature="e#6924#7171#2" expanded="true" />
+                <element signature="e#10868#11115#2" expanded="true" />
+                <element signature="e#11614#12096#0" expanded="false" />
+                <element signature="e#12121#12146#0" expanded="false" />
+                <element signature="e#12159#12226#0" expanded="false" />
+                <element signature="e#12242#12355#0" expanded="false" />
+                <element signature="e#12373#12407#0" expanded="false" />
+                <element signature="e#12419#12490#0" expanded="false" />
+                <element signature="e#13724#13944#0" expanded="false" />
+                <element signature="e#13972#14059#0" expanded="false" />
+                <element signature="e#14074#14111#0" expanded="false" />
+                <element signature="e#14126#14163#0" expanded="false" />
+                <element signature="e#14187#14241#0" expanded="false" />
+                <element signature="e#14254#14274#0" expanded="false" />
+                <element signature="e#14287#14308#0" expanded="false" />
+                <element signature="e#14403#14429#0" expanded="false" />
+                <element signature="e#14442#15090#0" expanded="false" />
+                <element signature="e#15166#15200#0" expanded="false" />
+                <element signature="e#18337#19097#0" expanded="false" />
+                <element signature="e#19121#19229#0" expanded="false" />
+                <element signature="e#19242#19263#0" expanded="false" />
+                <element signature="e#19276#19298#0" expanded="false" />
+                <element signature="e#19932#20052#0" expanded="false" />
+                <element signature="e#20066#20091#0" expanded="false" />
+                <element signature="e#20103#20696#0" expanded="false" />
+                <element signature="e#20725#20778#0" expanded="false" />
+                <element signature="e#20809#20895#0" expanded="false" />
+                <element signature="e#20919#21026#0" expanded="false" />
+                <element signature="e#21047#21137#0" expanded="false" />
+                <element signature="e#21166#21234#0" expanded="false" />
+                <element signature="e#21270#21299#0" expanded="false" />
+                <element signature="e#21323#21572#0" expanded="false" />
+                <element signature="e#21585#21637#0" expanded="false" />
+                <element signature="e#21717#23144#0" expanded="false" />
+                <element signature="e#23166#24116#0" expanded="false" />
+                <element signature="e#24129#24303#0" expanded="false" />
+                <element signature="e#24371#24413#0" expanded="false" />
+                <element signature="e#24464#24526#0" expanded="false" />
+                <element signature="e#24577#24702#0" expanded="false" />
+                <element signature="e#25629#26643#0" expanded="false" />
+                <element signature="e#29036#29153#0" expanded="false" />
+                <element signature="e#31309#32566#0" expanded="false" />
+                <element signature="e#32595#33458#0" expanded="false" />
+                <element signature="e#33487#33978#0" expanded="false" />
+                <element signature="e#34007#35071#0" expanded="false" />
+                <element signature="e#45921#45979#0" expanded="false" />
+                <element signature="e#46637#51695#0" expanded="false" />
+                <element signature="e#51803#52183#0" expanded="false" />
+                <element signature="e#51818#52062#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newscat.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newscat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2079">
+              <caret line="1040" column="39" lean-forward="true" selection-start-line="1040" selection-start-column="39" selection-end-line="1040" selection-end-column="39" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="329" column="73" lean-forward="false" selection-start-line="329" selection-start-column="73" selection-end-line="329" selection-end-column="73" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newspic (30).jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/newspic (30).jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selected</find>
+      <find>news</find>
+      <find>tags</find>
+      <find>.newssum</find>
+      <find>tag</find>
+      <find>newsBox</find>
+      <find>newsbox</find>
+      <find>newsB</find>
+      <find>newsCa</find>
+      <find>width: unset</find>
+      <find>right</find>
+      <find>.text</find>
+      <find>.com</find>
+      <find>fot</find>
+      <find>foo</find>
+      <find>most v</find>
+      <find>header</find>
+      <find>wideAds</find>
+      <find>json</find>
+      <find>bg</find>
+      <find>titlebg</find>
+      <find>eft</find>
+      <find>.news</find>
+      <find>/*</find>
+      <find>left</find>
+      <find>newssummary</find>
+      <find>vote</find>
+      <find>ads</find>
+      <find>most</find>
+      <find>comment</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/assets/css/bootstrap-rtl.css" />
+        <option value="$PROJECT_DIR$/assets/fonts/font.css" />
+        <option value="$PROJECT_DIR$/assets/css/plugins/mcustomscrollbar/jquery.mCustomScrollbar.css" />
+        <option value="$PROJECT_DIR$/js/jssor.slider-27.1.0.min.js" />
+        <option value="$PROJECT_DIR$/standard.html" />
+        <option value="$PROJECT_DIR$/js/javascript.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa20292.21157/news/news.html" />
+        <option value="$PROJECT_DIR$/123.html" />
+        <option value="$PROJECT_DIR$/assets/css/jquery.simpleTicker.css" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/News/index.html" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/news" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/news.html" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/newsCat.html" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/assets/css/style.css" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/assets/css/style.scss" />
+        <option value="$PROJECT_DIR$/newsCat.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/js/javascript.js" />
+        <option value="$PROJECT_DIR$/mediaCat.html" />
+        <option value="$PROJECT_DIR$/mediacat2.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mediacat.html" />
+        <option value="$PROJECT_DIR$/newscat.html" />
+        <option value="$PROJECT_DIR$/search.html" />
+        <option value="&lt;6f334389-4d2c-4865-9cab-84c69594b350&gt;/mnews/index.html" />
+        <option value="$PROJECT_DIR$/New folder/rate.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/news.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="news1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="news1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Nama2/Desktop/news/news.html&#10;host&#9;ACTION&#9;WebDeployment.BrowseServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nama2\Desktop\news\assets\css" />
+      <recent name="D:\amini\back up\news\INDEX\news" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad98bef-3c84-4807-98ec-ef0ed193d962" name="Default" comment="" />
+      <created>1526721197171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526721197171</updated>
+      <workItem from="1526721204492" duration="1094000" />
+      <workItem from="1526964285969" duration="1764000" />
+      <workItem from="1526966153696" duration="1784000" />
+      <workItem from="1526968137793" duration="1778000" />
+      <workItem from="1526969953297" duration="655000" />
+      <workItem from="1526971017094" duration="1710000" />
+      <workItem from="1526972842929" duration="1772000" />
+      <workItem from="1526974650371" duration="2051000" />
+      <workItem from="1526977441277" duration="1779000" />
+      <workItem from="1526979253019" duration="37000" />
+      <workItem from="1526979563454" duration="1692000" />
+      <workItem from="1526981464121" duration="1776000" />
+      <workItem from="1526983269928" duration="1560000" />
+      <workItem from="1526985079843" duration="1780000" />
+      <workItem from="1526986888183" duration="1797000" />
+      <workItem from="1526988732131" duration="1727000" />
+      <workItem from="1527090521831" duration="12738000" />
+      <workItem from="1527137067666" duration="15000" />
+      <workItem from="1527137085286" duration="24599000" />
+      <workItem from="1527306827546" duration="24243000" />
+      <workItem from="1527526710176" duration="3178000" />
+      <workItem from="1527566657759" duration="24909000" />
+      <workItem from="1527742239842" duration="12303000" />
+      <workItem from="1527755534942" duration="10288000" />
+      <workItem from="1527914788368" duration="4316000" />
+      <workItem from="1527919491146" duration="1461000" />
+      <workItem from="1527922025386" duration="599000" />
+      <workItem from="1527923965652" duration="1844000" />
+      <workItem from="1527929648633" duration="1989000" />
+      <workItem from="1527931712837" duration="1777000" />
+      <workItem from="1527933578601" duration="1138000" />
+      <workItem from="1527936002419" duration="1075000" />
+      <workItem from="1527938295279" duration="1774000" />
+      <workItem from="1527940221437" duration="1350000" />
+      <workItem from="1528352828042" duration="1755000" />
+      <workItem from="1528354627350" duration="688000" />
+      <workItem from="1528356992026" duration="1296000" />
+      <workItem from="1528359121727" duration="1865000" />
+      <workItem from="1528361887603" duration="1230000" />
+      <workItem from="1528363693990" duration="1774000" />
+      <workItem from="1528365648881" duration="1844000" />
+      <workItem from="1528367531830" duration="1782000" />
+      <workItem from="1528369353506" duration="1496000" />
+      <workItem from="1528517427201" duration="263000" />
+      <workItem from="1528519528163" duration="1545000" />
+      <workItem from="1528521320266" duration="1630000" />
+      <workItem from="1528523131583" duration="1846000" />
+      <workItem from="1528525009722" duration="1284000" />
+      <workItem from="1528527094619" duration="1775000" />
+      <workItem from="1528528907191" duration="1667000" />
+      <workItem from="1528534085117" duration="1780000" />
+      <workItem from="1528535892978" duration="2338000" />
+      <workItem from="1528538540178" duration="1747000" />
+      <workItem from="1528540374548" duration="1799000" />
+      <workItem from="1528542230015" duration="248000" />
+      <workItem from="1528542816954" duration="128000" />
+      <workItem from="1528910052958" duration="4718000" />
+      <workItem from="1528949848803" duration="1528000" />
+      <workItem from="1528951430234" duration="1537000" />
+      <workItem from="1528953458858" duration="1780000" />
+      <workItem from="1528955275357" duration="1764000" />
+      <workItem from="1528957115274" duration="1771000" />
+      <workItem from="1528958933653" duration="1774000" />
+      <workItem from="1528960748942" duration="1780000" />
+      <workItem from="1528962590183" duration="1229000" />
+      <workItem from="1528964484072" duration="1780000" />
+      <workItem from="1528966319901" duration="1800000" />
+      <workItem from="1528968161768" duration="1780000" />
+      <workItem from="1528970001576" duration="1470000" />
+      <workItem from="1529516294821" duration="4297000" />
+      <workItem from="1529525077985" duration="3568000" />
+      <workItem from="1529554269381" duration="2913000" />
+      <workItem from="1529562028772" duration="5783000" />
+      <workItem from="1529572640574" duration="1445000" />
+      <workItem from="1529574751401" duration="1091000" />
+      <workItem from="1529575984170" duration="741000" />
+      <workItem from="1529576751184" duration="654000" />
+      <workItem from="1529578005211" duration="2868000" />
+      <workItem from="1529727518577" duration="21632000" />
+      <workItem from="1529988228553" duration="618000" />
+      <workItem from="1529988980701" duration="87000" />
+      <workItem from="1530009314002" duration="598000" />
+      <workItem from="1530161804772" duration="23422000" />
+      <workItem from="1530591013457" duration="589000" />
+      <workItem from="1530616627154" duration="1742000" />
+      <workItem from="1530762025359" duration="596000" />
+      <workItem from="1530765664050" duration="10817000" />
+      <workItem from="1530937240728" duration="17747000" />
+      <workItem from="1531195558788" duration="17040000" />
+      <workItem from="1531220220286" duration="2452000" />
+      <workItem from="1531370558719" duration="483000" />
+      <workItem from="1531371050166" duration="9349000" />
+      <workItem from="1531388140377" duration="219000" />
+      <workItem from="1531388658751" duration="4334000" />
+      <workItem from="1531394829248" duration="623000" />
+      <workItem from="1531469740205" duration="5111000" />
+      <workItem from="1531541779704" duration="22344000" />
+      <workItem from="1531714918509" duration="12582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="410685000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18098818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15306123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.025085518" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.025085518" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.091836736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/assets/fonts/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/kelaket/UI/video_k V.2/video.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa3272.24990/news/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/assets/images/ads6.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads3.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads2.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads1.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122100">
+          <caret line="4884" column="10" lean-forward="false" selection-start-line="4884" selection-start-column="10" selection-end-line="4884" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/newspic (6).jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc" />
+    <entry file="file://$PROJECT_DIR$/assets/css/plugins/mcustomscrollbar/jquery.mCustomScrollbar.css" />
+    <entry file="file://$PROJECT_DIR$/js/jssor.slider-27.1.0.min.js" />
+    <entry file="file://$PROJECT_DIR$/assets/images/logo.png" />
+    <entry file="file://$PROJECT_DIR$/js/javascript.js" />
+    <entry file="file://$PROJECT_DIR$/standard.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa20292.21157/news/news.html" />
+    <entry file="file://$PROJECT_DIR$/123.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.simpleTicker.js" />
+    <entry file="file://D:/amini/back up/kelaket/UI/video_k V.2/video.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/mcustomscrollbar/jquery.mCustomScrollbar.concat.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc" />
+    <entry file="file://D:/amini/back up/BaSport/UI/news/stylenew.css" />
+    <entry file="file://D:/amini/back up/BaSport/UI/news/style.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.9.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/amini/back up/BaSport/UI/news/با اسپرت _ news.html" />
+    <entry file="file://$PROJECT_DIR$/assets/images/BaFilimo.png" />
+    <entry file="file://$PROJECT_DIR$/assets/images/title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.stuck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/plugins/owl-carousel/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="2319" column="9" lean-forward="false" selection-start-line="2319" selection-start-column="9" selection-end-line="2319" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mediacat2.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2828">
+          <caret line="101" column="52" lean-forward="false" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/jquery.simpleTicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="242" column="16" lean-forward="false" selection-start-line="242" selection-start-column="16" selection-end-line="242" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads8.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads14.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads11.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/ads12.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mediacat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="950" column="0" lean-forward="false" selection-start-line="950" selection-start-column="0" selection-end-line="950" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New folder/rate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/iransans.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/newspic (30).jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newscat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="1040" column="39" lean-forward="true" selection-start-line="1040" selection-start-column="39" selection-end-line="1040" selection-end-column="39" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="329" column="73" lean-forward="false" selection-start-line="329" selection-start-column="73" selection-end-line="329" selection-end-column="73" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="2606" column="1" lean-forward="true" selection-start-line="2606" selection-start-column="1" selection-end-line="2606" selection-end-column="1" />
+          <folding>
+            <element signature="e#2228#2800#0" expanded="false" />
+            <element signature="e#6924#7171#2" expanded="true" />
+            <element signature="e#10868#11115#2" expanded="true" />
+            <element signature="e#11614#12096#0" expanded="false" />
+            <element signature="e#12121#12146#0" expanded="false" />
+            <element signature="e#12159#12226#0" expanded="false" />
+            <element signature="e#12242#12355#0" expanded="false" />
+            <element signature="e#12373#12407#0" expanded="false" />
+            <element signature="e#12419#12490#0" expanded="false" />
+            <element signature="e#13724#13944#0" expanded="false" />
+            <element signature="e#13972#14059#0" expanded="false" />
+            <element signature="e#14074#14111#0" expanded="false" />
+            <element signature="e#14126#14163#0" expanded="false" />
+            <element signature="e#14187#14241#0" expanded="false" />
+            <element signature="e#14254#14274#0" expanded="false" />
+            <element signature="e#14287#14308#0" expanded="false" />
+            <element signature="e#14403#14429#0" expanded="false" />
+            <element signature="e#14442#15090#0" expanded="false" />
+            <element signature="e#15166#15200#0" expanded="false" />
+            <element signature="e#18337#19097#0" expanded="false" />
+            <element signature="e#19121#19229#0" expanded="false" />
+            <element signature="e#19242#19263#0" expanded="false" />
+            <element signature="e#19276#19298#0" expanded="false" />
+            <element signature="e#19932#20052#0" expanded="false" />
+            <element signature="e#20066#20091#0" expanded="false" />
+            <element signature="e#20103#20696#0" expanded="false" />
+            <element signature="e#20725#20778#0" expanded="false" />
+            <element signature="e#20809#20895#0" expanded="false" />
+            <element signature="e#20919#21026#0" expanded="false" />
+            <element signature="e#21047#21137#0" expanded="false" />
+            <element signature="e#21166#21234#0" expanded="false" />
+            <element signature="e#21270#21299#0" expanded="false" />
+            <element signature="e#21323#21572#0" expanded="false" />
+            <element signature="e#21585#21637#0" expanded="false" />
+            <element signature="e#21717#23144#0" expanded="false" />
+            <element signature="e#23166#24116#0" expanded="false" />
+            <element signature="e#24129#24303#0" expanded="false" />
+            <element signature="e#24371#24413#0" expanded="false" />
+            <element signature="e#24464#24526#0" expanded="false" />
+            <element signature="e#24577#24702#0" expanded="false" />
+            <element signature="e#25629#26643#0" expanded="false" />
+            <element signature="e#29036#29153#0" expanded="false" />
+            <element signature="e#31309#32566#0" expanded="false" />
+            <element signature="e#32595#33458#0" expanded="false" />
+            <element signature="e#33487#33978#0" expanded="false" />
+            <element signature="e#34007#35071#0" expanded="false" />
+            <element signature="e#45921#45979#0" expanded="false" />
+            <element signature="e#46637#51695#0" expanded="false" />
+            <element signature="e#51803#52183#0" expanded="false" />
+            <element signature="e#51818#52062#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
