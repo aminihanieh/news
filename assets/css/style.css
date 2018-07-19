@@ -14,6 +14,7 @@ html, body {
   direction: rtl;
   text-align: right;
   background-color: #edeff2 !important;
+  padding: 0;
 }
 
 header ul {
@@ -197,25 +198,33 @@ main {
   width: 80%;
   height: 35px;
   padding: 0 5px;
+  border-radius: 0 !important;
 }
 
 .firstMenu .searchBox button {
   background: none;
   color: white;
   padding-right: 2px;
+  border: 0;
+  box-shadow: none;
 }
 
 .baner {
-  height: 90px;
-  background: url("../images/baner.jpg") no-repeat left top;
+  background: url(../images/baner.jpg) no-repeat left top;
   background-size: cover;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.baner .logo img {
+  width: 100px;
 }
 
 .baner .wideAds {
-  height: 60px;
-  width: 530px;
+  height: unset;
+  width: 100%;
   margin-bottom: 10px;
-  margin-top: 15px;
+  margin-top: 5px;
   float: left;
 }
 
@@ -1377,6 +1386,9 @@ main {
   .container {
     max-width: 880px !important;
   }
+  .baner .wideAds {
+    margin-top: 10px;
+  }
   .secMenu .nav-item {
     font-size: 12px;
     width: 87px;
@@ -1580,6 +1592,7 @@ main {
 /*------------------------------newsCat page start--------------------------------*/
 .newsCat .right {
   width: 60%;
+  height: auto;
   padding-left: 5px;
   margin-left: 0px;
 }
@@ -2150,8 +2163,6 @@ main {
 .news .right .commentBox form input:focus, .news .right .commentBox form textarea:focus {
   outline: -webkit-focus-ring-color auto 5px;
   outline-color: #601a2f;
-  outline-style: auto;
-  outline-width: 5px;
 }
 
 .news .right .commentBox form .submit input {
@@ -2646,12 +2657,12 @@ main {
   width: calc(100% - 600px);
 }
 
-.mediaCat .lastMedia .Content .detailNews h3 {
+.mediaCat .lastMedia .Content .detailNews h2 {
   line-height: 30px;
   font-size: 16px;
 }
 
-.mediaCat .lastMedia .Content .owl-carousel .item h3 {
+.mediaCat .lastMedia .Content .owl-carousel .item h2 {
   font-size: 14px;
   color: #2e2e2e;
   line-height: 24px;
@@ -2672,7 +2683,7 @@ main {
   line-height: 30px;
 }
 
-.mediaCat .lastMedia .Content .owl-carousel .item .carousel-caption h3 {
+.mediaCat .lastMedia .Content .owl-carousel .item .carousel-caption h2 {
   font-size: 20px;
   height: 27px;
 }
@@ -2712,17 +2723,33 @@ main {
 }
 
 /*-------------------------------searchPage page start----------------------------------*/
-.searchPage .col-lg-12 {
-  margin: auto;
-}
-
-.searchPage .col-lg-12 button.btn.btn-default {
+.searchPage button {
+  outline: 0;
+  box-shadow: none;
   background: #4c1324;
   color: white;
 }
 
+.searchPage button:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.searchPage .col-lg-12 {
+  margin: auto;
+}
+
 .searchPage .col-lg-12 .input-group {
   min-height: 40px;
+}
+
+.searchPage .col-lg-12 .input-group input[type="text"] {
+  height: 40px;
+}
+
+.searchPage .col-lg-12 .input-group button {
+  box-shadow: none;
+  outline: none;
 }
 
 .searchPage .col-lg-12 button.btn.btn-default {
@@ -2731,7 +2758,118 @@ main {
 
 .searchPage select#categoryIds {
   width: 100%;
-  border: 1px solid #4c1324;
-  margin: 10px;
-  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.searchPage input, .searchPage select, .searchPage option {
+  outline: -webkit-focus-ring-color auto 5px;
+  outline-color: #CCCCCC;
+  outline-style: auto;
+  outline-width: 5px;
+  cursor: text;
+  padding-right: 3px;
+}
+
+.searchPage input:focus, .searchPage select:focus, .searchPage option:focus {
+  outline: -webkit-focus-ring-color auto 3px;
+  outline-color: #601a2f;
+  border: 0;
+  box-shadow: none;
+}
+
+.searchPage .filter {
+  float: right;
+}
+
+.searchPage .datePicker {
+  margin-top: 10px;
+  float: right;
+}
+
+.searchPage .datePicker input {
+  width: 90%;
+  height: 30px;
+  border-radius: 0px 5px 5px 0;
+  float: right;
+  border: 0;
+}
+
+.searchPage .datePicker button#datepicker1btn, .searchPage .datePicker button#datepicker2btn {
+  border-radius: 3px 0 0 3px;
+  width: 10%;
+  padding: 5px;
+}
+
+.searchPage .searchResult .searchResultNumber {
+  text-align: right;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  color: #601a2f;
+}
+
+.searchPage .searchResult .selectedBoxParent {
+  overflow: hidden;
+  padding: 10px 5px 0 5px;
+  float: right;
+}
+
+.searchPage .searchResult .selectedBox {
+  background: white;
+  border: 1px solid #CCCCCC;
+  overflow: hidden;
+  float: right;
+  color: #2e2e2e;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.searchPage .searchResult .selectedBox h3 {
+  height: 42px;
+  width: unset;
+}
+
+.searchPage .searchResult .selectedBox img {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 10px;
+  margin-left: 0;
+}
+
+.searchPage .searchResult .selectedBox i {
+  position: absolute;
+  right: 5px;
+  bottom: 69px;
+  padding: 4px;
+  background: rgba(67, 19, 33, 0.7);
+  color: white;
+}
+
+.searchPage .searchResult .selectedBox .detailNews {
+  height: 54px;
+  overflow: hidden;
+  vertical-align: top;
+  width: 97%;
+}
+
+.searchPage .searchResult .selectedBox .imgTitle {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 22px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.searchPage .searchResult .selectedBox .NewsShort {
+  font-size: 11px;
+  color: #2e2e2e;
+  height: 51px;
+}
+
+@media (max-width: 900px) {
+  .searchPage .datePicker input {
+    width: 85%;
+  }
+  .searchPage .datePicker button#datepicker1btn, .searchPage .datePicker button#datepicker2btn {
+    width: 15%;
+  }
 }

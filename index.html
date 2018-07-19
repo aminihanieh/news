@@ -68,8 +68,15 @@
 
         <div class="baner row"><!--poster mosalman news-->
             <div class="container">
-                <a href="#"><img  class="col-md-4 logo"></a>
-                <a href="#"><img src="assets/images/ads1.gif" class="wideAds"></a>
+                <div class="row">
+                    <div class="col-md-5 logo">
+                        <h1 style="display: inline"><a class="text-center transition" href="/" target="_blank"><img src="assets/images/logo1.png" alt="" class=""></a></h1>
+                    </div>
+                    <div class="col-md-7 nopad ads_top">
+                        <a href="#"><img src="assets/images/ads1.gif" class="wideAds"></a>
+                    </div>
+
+                </div>
             </div>
         </div>
 
@@ -127,10 +134,14 @@
                     <div class="col-sm-12">
                         <div id="ticker-roll" class="ticker">
                             <ul><span class="title"><i class="fas fa-newspaper"></i></span>
-                                <li><a href="news.html"><b>هوا ازامشب سردتر میشود/هشدار به کشاورزان ودامداران هوا ازامشب سردتر میشود/هشدار به کشاورزان ودامداران </b></a></li>
-                                <li><a href="news.html"><b>بازیگر مشهور سینما پس از اجرای حکم شلاق به دلیل تجاوز به دختر جوان راهی بیمارستان شد</b></a></li>
-                                <li><a href="news.html"><b>هوا ازامشب سردتر میشود/هشدار به کشاورزان ودامداران</b></a></li>
-                                <li><a href="news.html"><b>بازیگر مشهور سینما پس از اجرای حکم شلاق به دلیل تجاوز به دختر جوان راهی بیمارستان شد</b></a></li>
+                                <li><a href="news.html"><b>هوا ازامشب سردتر میشود/هشدار به کشاورزان ودامداران هوا ازامشب
+                                    سردتر میشود/هشدار به کشاورزان ودامداران </b></a></li>
+                                <li><a href="news.html"><b>بازیگر مشهور سینما پس از اجرای حکم شلاق به دلیل تجاوز به دختر
+                                    جوان راهی بیمارستان شد</b></a></li>
+                                <li><a href="news.html"><b>هوا ازامشب سردتر میشود/هشدار به کشاورزان ودامداران</b></a>
+                                </li>
+                                <li><a href="news.html"><b>بازیگر مشهور سینما پس از اجرای حکم شلاق به دلیل تجاوز به دختر
+                                    جوان راهی بیمارستان شد</b></a></li>
                             </ul>
                         </div><!--/#ticker -->
                     </div>
@@ -4237,6 +4248,23 @@ $(function(){
 <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="assets/js/javascript.js"></script>
 <script type="text/javascript" src="assets/js/plugins/mcustomscrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+function ConvertNumberToPersion() {
+persian = {0: '۰', 1: '۱', 2: '۲', 3: '۳', 4: '۴', 5: '۵', 6: '۶', 7: '۷', 8: '۸', 9: '۹'};
 
+function traverse(el) {
+if (el.nodeType == 3) {
+var list = el.data.match(/[0-9]/g);
+if (list != null && list.length != 0) {
+for (var i = 0; i < list.length; i++)
+el.data = el.data.replace(list[i], persian[list[i]]);
+}
+}
+for (var i = 0; i < el.childNodes.length; i++) {
+traverse(el.childNodes[i]);
+}
+}
+
+traverse(document.body);
+}
 </body>
 </html>

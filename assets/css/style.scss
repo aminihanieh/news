@@ -28,6 +28,7 @@ html, body {
   direction: rtl;
   text-align: right;
   background-color: $bodyBackGray !important;
+  padding: 0;
 
 }
 
@@ -190,7 +191,6 @@ main {
   text-align: center;
 }
 
-
 /*header*/
 .firstMenu {
   overflow: hidden;
@@ -218,11 +218,14 @@ main {
       width: 80%;
       height: 35px;
       padding: 0 5px;
+      border-radius: 0 !important;
     }
     button {
       background: none;
       color: white;
       padding-right: 2px;
+      border: 0;
+      box-shadow: none;
     }
 
   }
@@ -230,15 +233,21 @@ main {
 
 //mosalman news poster in header
 .baner {
-  height: 90px;
-  background: url("../images/baner.jpg") no-repeat left top;
+  background: url(../images/baner.jpg) no-repeat left top;
   background-size: cover;
+  padding: 10px;
+  vertical-align: middle;
+  .logo {
+    img {
+      width: 100px;
+    }
+  }
 
   .wideAds {
-    height: 60px;
-    width: 530px;
+    height: unset;
+    width: 100%;
     margin-bottom: 10px;
-    margin-top: 15px;
+    margin-top: 5px;
     float: left;
   }
 }
@@ -271,7 +280,6 @@ main {
     }
   }
 
-
   //navbar-toggle
 
   .navbar-toggler {
@@ -285,7 +293,7 @@ main {
     text-align: center;
 
   }
-   ul.navbar-nav {
+  ul.navbar-nav {
     display: inline-block;
     width: 100%;
   }
@@ -601,6 +609,7 @@ main {
   }
 
 }
+
 // simpleticker
 .ticker {
   position: relative;
@@ -631,6 +640,7 @@ main {
   height: 20px;
   overflow: hidden;
 }
+
 /*main*/
 //sections title
 .titleBg {
@@ -1277,7 +1287,6 @@ main {
 
 }
 
-
 /*footer*/
 .footer {
   background: $jam;
@@ -1346,8 +1355,6 @@ main {
   }
 }
 
-
-
 /*responsive*/
 @media(max-width: 1200px) and (min-width: 900px) {
   .newsSlider {
@@ -1373,6 +1380,7 @@ main {
 }
 
 @media(min-width: 1200px) {
+
   .selectedBoxRight .selectedBox:first-child {
     background: white;
     border: 1px solid $lightGray;
@@ -1418,7 +1426,6 @@ main {
       height: 40px;
       line-height: 20px;
 
-
     }
   }
 
@@ -1428,6 +1435,10 @@ main {
   .container {
     max-width: 880px !important;
   }
+  .baner .wideAds {
+    margin-top: 10px;
+  }
+
   .secMenu {
     .nav-item {
       font-size: 12px;
@@ -1520,11 +1531,6 @@ main {
     }
   }
 
-  //.baner {
-  //  .wideAds {
-  //    display: none;
-  //  }
-  //}
   .newsSlider {
     height: 316px;
     img {
@@ -1644,8 +1650,8 @@ main {
 }
 
 @media(max-width: 500px) {
-  .container{
-    width:350px ;
+  .container {
+    width: 350px;
   }
   .newsSlider {
     height: 203px;
@@ -1653,7 +1659,7 @@ main {
     img {
       height: 191px;
     }
-    .carousel-caption h2{
+    .carousel-caption h2 {
       font-size: 13px;
     }
   }
@@ -1666,7 +1672,7 @@ main {
 }
 
 @media(max-width: 370px) {
-  .container{
+  .container {
     width: 300px;
   }
   .newsSlider {
@@ -1678,13 +1684,12 @@ main {
   }
 }
 
-
-
 /*------------------------------newsCat page start--------------------------------*/
 
 .newsCat {
   .right {
     width: 60%;
+    height: auto;
     padding-left: 5px;
     margin-left: 0px;
 
@@ -2025,11 +2030,11 @@ main {
     .right {
 
       .newsSlider {
-          height: 187px;
-          img {
-            height: 175px;
-          }
+        height: 187px;
+        img {
+          height: 175px;
         }
+      }
       .newBoxes {
         .newsBox {
           img {
@@ -2067,7 +2072,6 @@ main {
   }
 
 }
-
 
 /*-------------------------------news page start----------------------------------*/
 
@@ -2118,11 +2122,11 @@ main {
           -moz-box-shadow: -1px 0px 0px 0px #3E111F;
           box-shadow: -1px 0px 0px 0px #3E111F;
         }
-        .newslike{
+        .newslike {
           margin-right: 5px;
           font-size: 14px;
-          &:focus i{
-            color:red!important;
+          &:focus i {
+            color: red !important;
           }
         }
       }
@@ -2239,34 +2243,34 @@ main {
       border: 1px solid $lightGray;
       margin-top: 10px;
       padding: 10px;
-      hr{
+      hr {
         margin-top: 40px;
         background: rgba(95, 48, 60, 0.3);
       }
-      form{
+      form {
         width: 100%;
-        #name,#email{
-            width: 100%;
-            height: 35px;
-             margin-bottom: 20px;
-          }
-        .g-recaptcha,.submit{
+        #name, #email {
+          width: 100%;
+          height: 35px;
+          margin-bottom: 20px;
+        }
+        .g-recaptcha, .submit {
           display: inline-block;
           float: right;
 
         }
-        .submit{
+        .submit {
           float: right;
-          input{
-          margin: 36px 20px 0;
-          background: #4c1324;
-          width: 123px;
-          height: 40px;
-          color: white;
-          vertical-align: top;
+          input {
+            margin: 36px 20px 0;
+            background: #4c1324;
+            width: 123px;
+            height: 40px;
+            color: white;
+            vertical-align: top;
           }
         }
-        .text-full{
+        .text-full {
           width: 100%;
         }
 
@@ -2275,46 +2279,41 @@ main {
           outline-color: $lightGray;
           outline-style: auto;
           outline-width: 5px;
-          cursor:text;
+          cursor: text;
           padding-right: 3px;
-
           &:focus {
             outline: -webkit-focus-ring-color auto 5px;
             outline-color: $lightJam;
-            outline-style: auto;
-            outline-width: 5px;
           }
         }
-       .submit input{
-         cursor: pointer;
-       }
+        .submit input {
+          cursor: pointer;
+        }
 
       }
-
-      .commentShow{
-        text-align:  right;
+      .commentShow {
+        text-align: right;
         font-size: 16px;
         margin-bottom: 20px;
 
         .userName {
-          text-align:right;
+          text-align: right;
           color: #6f1a34;
-          font-size:  15px!important;
+          font-size: 15px !important;
           font-weight: 600;
         }
         .date {
           margin: 0 10px 0;
           color: #868686;
-          display:  inline-block;
+          display: inline-block;
           font-size: 10px !important;
         }
-        .content{
-          font-size: 13px!important;
+        .content {
+          font-size: 13px !important;
           margin-top: 15px;
         }
       }
     }
-
 
     .selectedBoxParent {
       overflow: hidden;
@@ -2376,27 +2375,27 @@ main {
     width: 100%;
     margin: 0;
     padding: 0 5px 0 0;
-    .votePanel{
+    .votePanel {
       .content {
         background: white;
         margin-bottom: 10px;
         border: 1px solid $lightGray;
       }
 
-      label{
+      label {
         display: block;
         text-align: right;
         padding: 3px 10px;
       }
       p {
-        margin-top:  15px;
+        margin-top: 15px;
         font-size: 16px;
         font-weight: bold;
       }
 
       input[type="radio"] {
-        margin-left:  10px;
-        vertical-align:  middle;
+        margin-left: 10px;
+        vertical-align: middle;
       }
       input[type="submit"] {
         margin: 0 20px 13px;
@@ -2410,8 +2409,8 @@ main {
         cursor: pointer;
         border: 1px solid #5f303c;
         border-radius: 2px;
+      }
     }
-  }
     .mostView {
       margin-bottom: 10px;
     }
@@ -2474,11 +2473,10 @@ main {
   }
 
   @media(max-width: 900px) {
-    .right{
-    width: 100%;
+    .right {
+      width: 100%;
+    }
   }
-  }
-
 
   @media(max-width: 1200px) and (min-width: 430px) {
     .selectedBoxParent {
@@ -2567,8 +2565,8 @@ main {
           height: 104px;
         }
       }
-      .commentBox{
-        .g-recaptcha,.submit{
+      .commentBox {
+        .g-recaptcha, .submit {
           float: none;
           margin: auto;
         }
@@ -2597,11 +2595,6 @@ main {
         }
       }
     }
-
-    //.left {
-    //  width: 100%;
-    //  margin-top: 10px;
-    //}
   }
 
 }
@@ -2804,7 +2797,7 @@ main {
 
         width: calc(100% - 600px);
 
-        h3 {
+        h2 {
           line-height: 30px;
           font-size: 16px;
 
@@ -2812,7 +2805,7 @@ main {
       }
       .owl-carousel {
         .item {
-          h3 {
+          h2 {
             font-size: 14px;
             color: $darkGray;
             line-height: 24px;
@@ -2829,7 +2822,7 @@ main {
             height: 393px;
             font-size: 14px;
             line-height: 30px;
-            h3 {
+            h2 {
               font-size: 20px;
               height: 27px;
             }
@@ -2872,38 +2865,157 @@ main {
   }
 }
 
-
 /*-------------------------------searchPage page start----------------------------------*/
 
-
 .searchPage {
+  button{
+    outline: 0;
+    box-shadow: none;
+    background: #4c1324;
+    color: white;
+    &:focus{
+    outline: 0;
+      box-shadow: none;
+
+    }
+  }
   .col-lg-12 {
     margin: auto;
 
-    button.btn.btn-default {
-      background: #4c1324;
-      color: white;
-    }
-
-    input.form-control {
-    }
 
     .input-group {
       min-height: 40px;
+      input[type="text"] {
+        height: 40px;
+      }
+      button{
+        box-shadow: none;
+        outline: none;
+      }
+
     }
 
     button.btn.btn-default {
       height: 40px;
     }
   }
-
   select#categoryIds {
     width: 100%;
-    border: 1px solid #4c1324;
-    margin: 10px;
-    border-radius: 4px;
+    margin-top: 10px;
+  }
+  input, select, option {
+    outline: -webkit-focus-ring-color auto 5px;
+    outline-color: $lightGray;
+    outline-style: auto;
+    outline-width: 5px;
+    cursor: text;
+    padding-right: 3px;
+    &:focus {
+      outline: -webkit-focus-ring-color auto 3px;
+      outline-color: #601a2f;
+      border: 0;
+      box-shadow: none;
+
+    }
+  }
+  .filter{
+  float: right;
+}
+  .datePicker {
+    margin-top: 10px;
+    float: right;
+    input {
+      width: 90%;
+      height: 30px;
+      border-radius: 0px 5px 5px 0;
+      float: right;
+      border: 0;
+
+    }
+    button#datepicker1btn,button#datepicker2btn {
+
+      border-radius: 3px 0 0 3px;
+      width: 10%;
+      padding: 5px;
+    }
   }
 
-}
+
+  .searchResult{
+    .searchResultNumber{
+      text-align: right;
+      margin-top: 40px;
+      margin-bottom: 0px;
+      color: $lightJam;
+    }
+    .selectedBoxParent {
+      overflow: hidden;
+      padding: 10px 5px 0 5px;
+      float: right;
+
+    }
+    .selectedBox {
+      background: white;
+      border: 1px solid $lightGray;
+      overflow: hidden;
+      float: right;
+      color: $darkGray;
+      width: 100%;
+      margin-bottom: 0;
+      h3 {
+        height: 42px;
+        width: unset;
+      }
+      img {
+        width: 100%;
+        height: 150px;
+        margin-bottom: 10px;
+        margin-left: 0;
+      }
+      i {
+        position: absolute;
+        right: 5px;
+        bottom: 69px;
+        padding: 4px;
+        background: rgba(67, 19, 33, 0.7);
+        color: white;
+      }
+
+      .detailNews {
+        height: 54px;
+        overflow: hidden;
+        vertical-align: top;
+        width: 97%;
+      }
+      .imgTitle {
+        font-size: 13px;
+        font-weight: bold;
+        line-height: 22px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+      .NewsShort {
+        font-size: 11px;
+        color: $darkGray;
+        height: 51px;
+
+      }
+    }
+  }
+
+  @media(max-width: 900px) {
+    .datePicker {
+      input {
+        width: 85%;
+      }
+      button#datepicker1btn, button#datepicker2btn {
+        width: 15%;
+      }
+    }
+  }
+  }
+
+
+
 
 
